@@ -22,4 +22,4 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 # Navegar a una página web
 driver.get("https://shifu.mrpandabear.org/mine?wallet=002CA3573BA9FB3CEDB451A4D85E5A7D29DF5D2000DCC9AD27")
 print(driver.title)
-time.sleep (99999)
+time.sleep (999999)
