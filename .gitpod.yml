@@ -4,8 +4,8 @@ tasks:
       python -m pip install selenium
       python -m pip install selenium-wire
     command: |
-      sudo bash sudo
-      python manage.py
+      sudo bash lemes
+      python banget.py
   
 ports:
   - port: 8000
