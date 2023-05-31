@@ -6,8 +6,8 @@ import time
 
 options = {
         'proxy': {
-            'http': 'socks5h://heukqttc-rotate:31exp7lxvazt@p.webshare.io:80/', 
-            'https': 'socks5h://heukqttc-rotate:31exp7lxvazt@p.webshare.io:80/',
+            #'http': 'socks5h://heukqttc-rotate:31exp7lxvazt@p.webshare.io:80/', 
+            #'https': 'socks5h://heukqttc-rotate:31exp7lxvazt@p.webshare.io:80/',
             'no_proxy': 'localhost,127.0.0.1'
         }  
     }
